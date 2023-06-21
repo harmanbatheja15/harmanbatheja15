@@ -12,8 +12,8 @@ I am a web geek and loves making things on the internet. I am a Full Stack Web D
 
 If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harmanbatheja15/) or [Instagram](https://instagram.com/harmanbatheja15/). You can also send me an email at [harmanbatheja15@gmail.com](mailto:harmanbatheja15@gmail.com).
 
-<br>
+<be>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harmanbatheja15&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harmanbatheja15&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmanbatheja15)](https://github.com/anuraghazra/github-readme-stats)

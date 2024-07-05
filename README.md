@@ -2,7 +2,8 @@
 
 ## About Me
 
-I am a web geek and loves making things on the internet. I am a Full Stack Web Developer work with HTML, CSS, Javascript, React JS, and Django. Besides learning Web Development, I love to play Chess.
+Full Stack Developer with expertise in front-end and back-end development.
+HTML, CSS, JavaScript, React.js, Node.js, Express.js, Django, PostgreSQL, MongoDB, Prisma ORM, Git, GitHub, AWS EC2
 
 <a href="https://twitter.com/harmanbatheja15"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
 <a href="https://instagram.com/harmanbatheja15"><img src="https://img.shields.io/badge/follow%20me%20on-Instagram-red?style=flat&logo=instagram">

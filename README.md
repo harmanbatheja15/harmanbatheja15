@@ -3,7 +3,7 @@
 ## About Me
 
 Full Stack Developer with expertise in front-end and back-end development. <br/>
-HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, TypeScript, Django, PostgreSQL, MongoDB, Prisma ORM, Git, GitHub, AWS EC2 <br/>
+HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, TypeScript, React Native, Django, PostgreSQL, MongoDB, Prisma ORM, Git, GitHub, AWS EC2 <br/>
 
 <a href="https://twitter.com/harmanbatheja15"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
 <a href="https://instagram.com/harmanbatheja15"><img src="https://img.shields.io/badge/follow%20me%20on-Instagram-red?style=flat&logo=instagram">

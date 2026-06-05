@@ -12,9 +12,3 @@ HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, TypeScript, React
 ## Contact Me
 
 If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harmanbatheja15/) or [Instagram](https://instagram.com/harmanbatheja15/). You can also send me an email at [harmanbatheja15@gmail.com](mailto:harmanbatheja15@gmail.com).
-
-<be>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harmanbatheja15&show_icons=true) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmanbatheja15)](https://github.com/anuraghazra/github-readme-stats)

@@ -11,4 +11,4 @@ HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, TypeScript, React
   
 ## Contact Me
 
-If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harmanbatheja15/) or [Instagram](https://instagram.com/harmanbatheja15/). You can also send me an email at [harmanbatheja15@gmail.com](mailto:harmanbatheja15@gmail.com).
+If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harmanbatheja15/) or [X](https://x.com/harmanbatheja15/). You can also send me an email at [harmanbatheja15@gmail.com](mailto:harmanbatheja15@gmail.com).
